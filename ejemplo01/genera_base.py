@@ -1,4 +1,4 @@
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine 
 
 # se genera en enlace al gestor de base de
 # datos
